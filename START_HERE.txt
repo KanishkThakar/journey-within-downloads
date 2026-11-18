@@ -1,0 +1,13 @@
+JOURNEY WITHIN / @journey.within.official
+
+Extract this starter ZIP first. Double-click Download-Journey-Within.cmd.
+Keep download-manifest.json beside the CMD file.
+The downloader retrieves 16 parts (29.3 GB), verifies them, joins the full ZIP and removes its temporary parts after successful verification. Allow 65 GB free on an NTFS/exFAT drive.
+
+When finished, right-click Journey_Within_Windows_Package.zip and choose Extract All, then open index.html in the extracted folder.
+
+If interrupted, run the downloader again; completed, verified parts are reused.
+
+Manual download: https://github.com/KanishkThakar/journey-within-downloads/releases/tag/v1.0.0
+
+See README.md for complete scope, review notes and rights information.

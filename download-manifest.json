@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "archive": "Journey_Within_Windows_Package.zip",
+  "bytes": 29291209019,
+  "sha256": "ff63a207ba5f5bc24bc68c84ab28858453310feb59b58fba75e083842dc50252",
+  "parts": [
+    {
+      "name": "Journey_Within_Windows_Package.zip.part001",
+      "bytes": 1950000000,
+      "sha256": "af7c1e7bd5fff56ab537f8fe6731c767824e7ae9498557ddb33941767afb983b",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part001"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part002",
+      "bytes": 1950000000,
+      "sha256": "76cf0232d35750ed8137619ee5bcab1c56032c3ca4c97ba1f0de70df06c7c56a",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part002"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part003",
+      "bytes": 1950000000,
+      "sha256": "bf58b3ee3a143c8d569ae5b3c7da19fce5b36d31ed0403522889487659318914",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part003"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part004",
+      "bytes": 1950000000,
+      "sha256": "f9a79d12142a1a5a57d8aefd20d68b6c1c12999a9aa430b30290d8389015f842",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part004"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part005",
+      "bytes": 1950000000,
+      "sha256": "9c6b117cca2ee45fffc68dee4f9c53bd6c0d4b636e50058c0a202f98c1380034",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part005"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part006",
+      "bytes": 1950000000,
+      "sha256": "f9b41b0cf456c1fd3b49353fe3b7b0e33ff59c8f74055b397b82a8edfc2d88ae",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part006"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part007",
+      "bytes": 1950000000,
+      "sha256": "4c51dcd7d34d85529f3a6b8c5d859a7bb0f87933b532287d1c9fe81cdf610a87",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part007"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part008",
+      "bytes": 1950000000,
+      "sha256": "a08734955c423be1fe91cdbdeb81fe51cb9eec445eb04ad099c019fdfe592e11",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part008"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part009",
+      "bytes": 1950000000,
+      "sha256": "29f55efd2d464b14b30bd815373f54047509c28137bc49f6f6c26f9c7392982d",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part009"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part010",
+      "bytes": 1950000000,
+      "sha256": "2fdac65be1d5a5bd68ddc197832c2f5b6fe39d55419020f1400f3d4c0f9eeecb",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part010"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part011",
+      "bytes": 1950000000,
+      "sha256": "876bb5e3c8f7a0d0d592f17f5cbde5a6849eb398b909d07a421d7282be909021",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part011"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part012",
+      "bytes": 1950000000,
+      "sha256": "8afdb5a12ef857ad98e628b6c7eca647cf7c33633fd28409051e6568ed4fa92d",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part012"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part013",
+      "bytes": 1950000000,
+      "sha256": "0f57068e7e4417a4e32f4de5fa943b85e4256877ab88fcf636b3a20aeda4f36a",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part013"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part014",
+      "bytes": 1950000000,
+      "sha256": "d84ac7b80ed23f3b17cb45e41b1b1136a801f4058da1a60c2b37e9be5ae3a4ef",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part014"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part015",
+      "bytes": 1950000000,
+      "sha256": "b29eaab5a5ec454bee13b181b16151069fdd27ca91f8373532cd49d714915187",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part015"
+    },
+    {
+      "name": "Journey_Within_Windows_Package.zip.part016",
+      "bytes": 41209019,
+      "sha256": "8d51ee64fae645fd299dfea936ca02b1e0224c3178221e702d5e950d76438379",
+      "url": "https://github.com/KanishkThakar/journey-within-downloads/releases/download/v1.0.0/Journey_Within_Windows_Package.zip.part016"
+    }
+  ],
+  "videos": 4143,
+  "shorts": 4107,
+  "regular_videos": 36,
+  "source_archive_snapshot": "2026-09-30"
+}
