@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-11-18T01:42:35.355432+00:00",
+  "repository": "KanishkThakar/journey-within-downloads",
+  "release_id": 449383320,
+  "expected_assets": 18,
+  "actual_assets": 18,
+  "total_video_package_bytes": 29291209019,
+  "package_sha256": "ff63a207ba5f5bc24bc68c84ab28858453310feb59b58fba75e083842dc50252",
+  "errors": [],
+  "status": "passed",
+  "verification_method": "GitHub uploaded state, stored byte count and server SHA-256 digest compared with every local part, starter and manifest. Full original ZIP was locally CRC-tested.",
+  "downloader_tests": {
+    "parser": "passed",
+    "cached_parts_reassembly": "passed",
+    "full_zip_hash": "passed",
+    "already_complete_resume": "passed",
+    "verified_part_cleanup": "passed",
+    "unsafe_path_rejection": "passed",
+    "runtime": "Portable PowerShell7.7 on macOS; Windows CMD launcher not executed on Windows",
+    "large_file_reassembly_3900000000_bytes": "passed",
+    "public_github_webclient_https_and_hash": "passed"
+  }
+}
